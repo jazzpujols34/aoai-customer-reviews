@@ -5,3 +5,4 @@ The script reads a CSV file containing customer reviews, uses the OpenAI GPT-3 m
 
 The code is based on the article "[Analyze Customer Reviews wit Azure OpenAI Service](https://medium.com/geekculture/analyze-customer-reviews-with-azure-openai-service-e46b18ff08c7)".
 
+![review-chart](https://github.com/jazzpujols34/aoai-customer-reviews/assets/62235508/2fd924df-ea18-4af2-9d47-0475eeba31af)
