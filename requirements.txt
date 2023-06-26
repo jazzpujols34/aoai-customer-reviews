@@ -1,0 +1,4 @@
+matplotlib
+pandas
+openai
+python-dotenv
